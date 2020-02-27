@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9E33B907240783E9002051EE /* ViewTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E33B906240783E9002051EE /* ViewTwo.swift */; };
+		9E33B9092407AAC5002051EE /* angry3.wav in Resources */ = {isa = PBXBuildFile; fileRef = 9E33B9082407AAC5002051EE /* angry3.wav */; };
+		9E33B90B2407AAD0002051EE /* cats2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 9E33B90A2407AAD0002051EE /* cats2.wav */; };
+		9E33B90F2407AFA7002051EE /* Gameboy-notification_sound-1867536.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9E33B90E2407AFA6002051EE /* Gameboy-notification_sound-1867536.mp3 */; };
 		9EA175F924041D6D004CF9C4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EA175F824041D6D004CF9C4 /* AppDelegate.swift */; };
 		9EA175FB24041D6D004CF9C4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EA175FA24041D6D004CF9C4 /* SceneDelegate.swift */; };
 		9EA175FD24041D6D004CF9C4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EA175FC24041D6D004CF9C4 /* ViewController.swift */; };
@@ -35,6 +39,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9E33B906240783E9002051EE /* ViewTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewTwo.swift; sourceTree = "<group>"; };
+		9E33B9082407AAC5002051EE /* angry3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = angry3.wav; sourceTree = "<group>"; };
+		9E33B90A2407AAD0002051EE /* cats2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = cats2.wav; sourceTree = "<group>"; };
+		9E33B90E2407AFA6002051EE /* Gameboy-notification_sound-1867536.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Gameboy-notification_sound-1867536.mp3"; path = "../../../../../Volumes/Samsung/kitty/Gameboy-notification_sound-1867536.mp3"; sourceTree = "<group>"; };
 		9EA175F524041D6D004CF9C4 /* NoahStifflerAssignment4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NoahStifflerAssignment4.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9EA175F824041D6D004CF9C4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9EA175FA24041D6D004CF9C4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -83,6 +91,9 @@
 				9EA1760E24041D75004CF9C4 /* NoahStifflerAssignment4Tests */,
 				9EA1761924041D75004CF9C4 /* NoahStifflerAssignment4UITests */,
 				9EA175F624041D6D004CF9C4 /* Products */,
+				9E33B90A2407AAD0002051EE /* cats2.wav */,
+				9E33B9082407AAC5002051EE /* angry3.wav */,
+				9E33B90E2407AFA6002051EE /* Gameboy-notification_sound-1867536.mp3 */,
 			);
 			sourceTree = "<group>";
 		};
@@ -103,6 +114,7 @@
 				9EA175FA24041D6D004CF9C4 /* SceneDelegate.swift */,
 				9EA175FC24041D6D004CF9C4 /* ViewController.swift */,
 				9EA175FE24041D6D004CF9C4 /* Main.storyboard */,
+				9E33B906240783E9002051EE /* ViewTwo.swift */,
 				9EA1760124041D74004CF9C4 /* Assets.xcassets */,
 				9EA1760324041D74004CF9C4 /* LaunchScreen.storyboard */,
 				9EA1760624041D74004CF9C4 /* Info.plist */,
@@ -234,6 +246,9 @@
 			files = (
 				9EA1760524041D74004CF9C4 /* LaunchScreen.storyboard in Resources */,
 				9EA1760224041D74004CF9C4 /* Assets.xcassets in Resources */,
+				9E33B90B2407AAD0002051EE /* cats2.wav in Resources */,
+				9E33B90F2407AFA7002051EE /* Gameboy-notification_sound-1867536.mp3 in Resources */,
+				9E33B9092407AAC5002051EE /* angry3.wav in Resources */,
 				9EA1760024041D6D004CF9C4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -260,6 +275,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9EA175FD24041D6D004CF9C4 /* ViewController.swift in Sources */,
+				9E33B907240783E9002051EE /* ViewTwo.swift in Sources */,
 				9EA175F924041D6D004CF9C4 /* AppDelegate.swift in Sources */,
 				9EA175FB24041D6D004CF9C4 /* SceneDelegate.swift in Sources */,
 			);
